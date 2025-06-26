@@ -43,6 +43,7 @@ A comprehensive analysis of Amazon sales performance and product ratings with fi
 
 | **Category Analysis** | ![Category Performance](images/amazon_main_cat_performance.png) 
 ---
+
 | **Product Ratings** | ![Rating Analysis](images/amazon_top_sales.png)   
 
 
